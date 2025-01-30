@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Arry {
 	final static int NUMERO_MAXIMO = 7;
-
+//Ian Palomares Gallego
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		List<String> lista = new ArrayList<>();
